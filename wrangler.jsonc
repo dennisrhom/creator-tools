@@ -1,0 +1,10 @@
+// Cloudflare deploy settings. `npx wrangler deploy` reads this file and
+// uploads the built site (the dist/ folder from `npm run build`) as static files.
+// public/_headers (copied into dist/) still applies.
+{
+  "name": "creator-tools",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
