@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Valorant Creator Tools</title>
+    <meta name="description" content="Free tools for Valorant content creators: agent icon maker, Twitch chat maker and kill banner maker. Everything runs in your browser." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>Creator Tools <small>for Valorant</small></span>
+      </div>
+      <nav class="tabs" role="tablist" aria-label="Tools">
+        <button class="tab" role="tab" id="tab-icon" aria-controls="panel-icon" data-tool="icon">Icon Maker</button>
+        <button class="tab" role="tab" id="tab-chat" aria-controls="panel-chat" data-tool="chat">Twitch Chat</button>
+        <button class="tab" role="tab" id="tab-kill" aria-controls="panel-kill" data-tool="kill">Kill Banner</button>
+      </nav>
+    </header>
+
+    <div id="asset-warning" class="asset-warning" hidden>
+      Valorant assets not found. Run <code>npm run download-assets</code> and refresh.
+    </div>
+
+    <main>
+      <section class="tool" id="panel-icon" role="tabpanel" aria-labelledby="tab-icon" hidden></section>
+      <section class="tool" id="panel-chat" role="tabpanel" aria-labelledby="tab-chat" hidden></section>
+      <section class="tool" id="panel-kill" role="tabpanel" aria-labelledby="tab-kill" hidden></section>
+    </main>
+
+    <footer class="site-footer">
+      Free and runs entirely in your browser. Nothing you upload leaves your device.
+      Not affiliated with or endorsed by Riot Games or Twitch. Valorant assets via
+      <a href="https://valorant-api.com" target="_blank" rel="noopener">valorant-api.com</a>; emotes via
+      <a href="https://7tv.app" target="_blank" rel="noopener">7TV</a>.
+    </footer>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

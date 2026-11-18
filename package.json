@@ -1,0 +1,20 @@
+{
+  "name": "valorant-creator-tools",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Free browser tools for Valorant content creators: icon maker, Twitch chat maker, kill banner maker.",
+  "scripts": {
+    "download-assets": "node scripts/download-assets.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  },
+  "dependencies": {
+    "@fontsource/barlow": "^5.1.0",
+    "@fontsource/inter": "^5.1.0"
+  }
+}

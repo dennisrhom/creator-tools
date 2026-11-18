@@ -1,0 +1,1071 @@
+{
+  "source": "https://valorant-api.com",
+  "generatedAt": "2026-11-18T05:18:29.740Z",
+  "agents": [
+    {
+      "name": "Astra",
+      "slug": "astra",
+      "role": "Controller",
+      "icon": "/assets/agents/astra/icon.png",
+      "killfeed": "/assets/agents/astra/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Gravity Well",
+          "icon": "/assets/agents/astra/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Nova Pulse",
+          "icon": "/assets/agents/astra/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Nebula",
+          "icon": "/assets/agents/astra/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Cosmic Divide",
+          "icon": "/assets/agents/astra/abilities/ultimate.png"
+        },
+        {
+          "slot": "Passive",
+          "name": "Astral Form",
+          "icon": "/assets/agents/astra/abilities/passive.png"
+        }
+      ]
+    },
+    {
+      "name": "Breach",
+      "slug": "breach",
+      "role": "Initiator",
+      "icon": "/assets/agents/breach/icon.png",
+      "killfeed": "/assets/agents/breach/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Aftershock",
+          "icon": "/assets/agents/breach/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Flashpoint",
+          "icon": "/assets/agents/breach/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Fault Line",
+          "icon": "/assets/agents/breach/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Rolling Thunder",
+          "icon": "/assets/agents/breach/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Brimstone",
+      "slug": "brimstone",
+      "role": "Controller",
+      "icon": "/assets/agents/brimstone/icon.png",
+      "killfeed": "/assets/agents/brimstone/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Stim Beacon",
+          "icon": "/assets/agents/brimstone/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Incendiary",
+          "icon": "/assets/agents/brimstone/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Sky Smoke",
+          "icon": "/assets/agents/brimstone/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Orbital Strike",
+          "icon": "/assets/agents/brimstone/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Chamber",
+      "slug": "chamber",
+      "role": "Sentinel",
+      "icon": "/assets/agents/chamber/icon.png",
+      "killfeed": "/assets/agents/chamber/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Trademark",
+          "icon": "/assets/agents/chamber/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Headhunter",
+          "icon": "/assets/agents/chamber/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Rendezvous",
+          "icon": "/assets/agents/chamber/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Tour De Force",
+          "icon": "/assets/agents/chamber/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Clove",
+      "slug": "clove",
+      "role": "Controller",
+      "icon": "/assets/agents/clove/icon.png",
+      "killfeed": "/assets/agents/clove/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Pick-me-up",
+          "icon": "/assets/agents/clove/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Meddle",
+          "icon": "/assets/agents/clove/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Ruse",
+          "icon": "/assets/agents/clove/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Not Dead Yet",
+          "icon": "/assets/agents/clove/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Cypher",
+      "slug": "cypher",
+      "role": "Sentinel",
+      "icon": "/assets/agents/cypher/icon.png",
+      "killfeed": "/assets/agents/cypher/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Trapwire",
+          "icon": "/assets/agents/cypher/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Cyber Cage",
+          "icon": "/assets/agents/cypher/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Spycam",
+          "icon": "/assets/agents/cypher/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Neural Theft",
+          "icon": "/assets/agents/cypher/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Deadlock",
+      "slug": "deadlock",
+      "role": "Sentinel",
+      "icon": "/assets/agents/deadlock/icon.png",
+      "killfeed": "/assets/agents/deadlock/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Barrier Mesh",
+          "icon": "/assets/agents/deadlock/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Sonic Sensor",
+          "icon": "/assets/agents/deadlock/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "GravNet",
+          "icon": "/assets/agents/deadlock/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Annihilation",
+          "icon": "/assets/agents/deadlock/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Fade",
+      "slug": "fade",
+      "role": "Initiator",
+      "icon": "/assets/agents/fade/icon.png",
+      "killfeed": "/assets/agents/fade/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Prowler",
+          "icon": "/assets/agents/fade/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Seize",
+          "icon": "/assets/agents/fade/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Haunt",
+          "icon": "/assets/agents/fade/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Nightfall",
+          "icon": "/assets/agents/fade/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Gekko",
+      "slug": "gekko",
+      "role": "Initiator",
+      "icon": "/assets/agents/gekko/icon.png",
+      "killfeed": "/assets/agents/gekko/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Mosh Pit",
+          "icon": "/assets/agents/gekko/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Wingman",
+          "icon": "/assets/agents/gekko/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Dizzy",
+          "icon": "/assets/agents/gekko/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Thrash",
+          "icon": "/assets/agents/gekko/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Harbor",
+      "slug": "harbor",
+      "role": "Controller",
+      "icon": "/assets/agents/harbor/icon.png",
+      "killfeed": "/assets/agents/harbor/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Storm Surge",
+          "icon": "/assets/agents/harbor/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "High Tide",
+          "icon": "/assets/agents/harbor/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Cove",
+          "icon": "/assets/agents/harbor/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Reckoning",
+          "icon": "/assets/agents/harbor/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Hush",
+      "slug": "hush",
+      "role": "Duelist",
+      "icon": "/assets/agents/hush/icon.png",
+      "killfeed": "/assets/agents/hush/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Flow",
+          "icon": "/assets/agents/hush/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Flashbulb",
+          "icon": "/assets/agents/hush/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Displacement",
+          "icon": "/assets/agents/hush/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Suspension",
+          "icon": "/assets/agents/hush/abilities/ultimate.png"
+        },
+        {
+          "slot": "Passive",
+          "name": "Telekinesis",
+          "icon": "/assets/agents/hush/abilities/passive.png"
+        }
+      ]
+    },
+    {
+      "name": "Iso",
+      "slug": "iso",
+      "role": "Duelist",
+      "icon": "/assets/agents/iso/icon.png",
+      "killfeed": "/assets/agents/iso/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Contingency",
+          "icon": "/assets/agents/iso/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Undercut",
+          "icon": "/assets/agents/iso/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Double Tap",
+          "icon": "/assets/agents/iso/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Kill Contract",
+          "icon": "/assets/agents/iso/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Jett",
+      "slug": "jett",
+      "role": "Duelist",
+      "icon": "/assets/agents/jett/icon.png",
+      "killfeed": "/assets/agents/jett/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Cloudburst",
+          "icon": "/assets/agents/jett/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Updraft",
+          "icon": "/assets/agents/jett/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Tailwind",
+          "icon": "/assets/agents/jett/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Blade Storm",
+          "icon": "/assets/agents/jett/abilities/ultimate.png"
+        },
+        {
+          "slot": "Passive",
+          "name": "Drift",
+          "icon": "/assets/agents/jett/abilities/passive.png"
+        }
+      ]
+    },
+    {
+      "name": "KAY/O",
+      "slug": "kay-o",
+      "role": "Initiator",
+      "icon": "/assets/agents/kay-o/icon.png",
+      "killfeed": "/assets/agents/kay-o/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "FRAG/ment",
+          "icon": "/assets/agents/kay-o/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "FLASH/drive",
+          "icon": "/assets/agents/kay-o/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "ZERO/point",
+          "icon": "/assets/agents/kay-o/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "NULL/cmd",
+          "icon": "/assets/agents/kay-o/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Killjoy",
+      "slug": "killjoy",
+      "role": "Sentinel",
+      "icon": "/assets/agents/killjoy/icon.png",
+      "killfeed": "/assets/agents/killjoy/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Nanoswarm",
+          "icon": "/assets/agents/killjoy/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "ALARMBOT",
+          "icon": "/assets/agents/killjoy/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "TURRET",
+          "icon": "/assets/agents/killjoy/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Lockdown",
+          "icon": "/assets/agents/killjoy/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Miks",
+      "slug": "miks",
+      "role": "Controller",
+      "icon": "/assets/agents/miks/icon.png",
+      "killfeed": "/assets/agents/miks/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "M-pulse",
+          "icon": "/assets/agents/miks/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Harmonize",
+          "icon": "/assets/agents/miks/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Waveform",
+          "icon": "/assets/agents/miks/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Bassquake",
+          "icon": "/assets/agents/miks/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Neon",
+      "slug": "neon",
+      "role": "Duelist",
+      "icon": "/assets/agents/neon/icon.png",
+      "killfeed": "/assets/agents/neon/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Fast Lane",
+          "icon": "/assets/agents/neon/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Relay Bolt",
+          "icon": "/assets/agents/neon/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "High Gear",
+          "icon": "/assets/agents/neon/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Overdrive",
+          "icon": "/assets/agents/neon/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Omen",
+      "slug": "omen",
+      "role": "Controller",
+      "icon": "/assets/agents/omen/icon.png",
+      "killfeed": "/assets/agents/omen/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Shrouded Step",
+          "icon": "/assets/agents/omen/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Paranoia",
+          "icon": "/assets/agents/omen/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Dark Cover",
+          "icon": "/assets/agents/omen/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "From the Shadows",
+          "icon": "/assets/agents/omen/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "slug": "phoenix",
+      "role": "Duelist",
+      "icon": "/assets/agents/phoenix/icon.png",
+      "killfeed": "/assets/agents/phoenix/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Blaze",
+          "icon": "/assets/agents/phoenix/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Hot Hands",
+          "icon": "/assets/agents/phoenix/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Curveball",
+          "icon": "/assets/agents/phoenix/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Run it Back",
+          "icon": "/assets/agents/phoenix/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Raze",
+      "slug": "raze",
+      "role": "Duelist",
+      "icon": "/assets/agents/raze/icon.png",
+      "killfeed": "/assets/agents/raze/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Boom Bot",
+          "icon": "/assets/agents/raze/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Blast Pack",
+          "icon": "/assets/agents/raze/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Paint Shells",
+          "icon": "/assets/agents/raze/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Showstopper",
+          "icon": "/assets/agents/raze/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Reyna",
+      "slug": "reyna",
+      "role": "Duelist",
+      "icon": "/assets/agents/reyna/icon.png",
+      "killfeed": "/assets/agents/reyna/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Leer",
+          "icon": "/assets/agents/reyna/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Devour",
+          "icon": "/assets/agents/reyna/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Dismiss",
+          "icon": "/assets/agents/reyna/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Empress",
+          "icon": "/assets/agents/reyna/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Sage",
+      "slug": "sage",
+      "role": "Sentinel",
+      "icon": "/assets/agents/sage/icon.png",
+      "killfeed": "/assets/agents/sage/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Barrier Orb",
+          "icon": "/assets/agents/sage/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Slow Orb",
+          "icon": "/assets/agents/sage/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Healing Orb",
+          "icon": "/assets/agents/sage/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Resurrection",
+          "icon": "/assets/agents/sage/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Skye",
+      "slug": "skye",
+      "role": "Initiator",
+      "icon": "/assets/agents/skye/icon.png",
+      "killfeed": "/assets/agents/skye/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Regrowth",
+          "icon": "/assets/agents/skye/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Trailblazer",
+          "icon": "/assets/agents/skye/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Guiding Light",
+          "icon": "/assets/agents/skye/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Seekers",
+          "icon": "/assets/agents/skye/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Sova",
+      "slug": "sova",
+      "role": "Initiator",
+      "icon": "/assets/agents/sova/icon.png",
+      "killfeed": "/assets/agents/sova/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Owl Drone",
+          "icon": "/assets/agents/sova/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Shock Bolt",
+          "icon": "/assets/agents/sova/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Recon Bolt",
+          "icon": "/assets/agents/sova/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Hunter's Fury",
+          "icon": "/assets/agents/sova/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Tejo",
+      "slug": "tejo",
+      "role": "Initiator",
+      "icon": "/assets/agents/tejo/icon.png",
+      "killfeed": "/assets/agents/tejo/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Stealth Drone",
+          "icon": "/assets/agents/tejo/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Special Delivery",
+          "icon": "/assets/agents/tejo/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Guided Salvo",
+          "icon": "/assets/agents/tejo/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Armageddon",
+          "icon": "/assets/agents/tejo/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Veto",
+      "slug": "veto",
+      "role": "Sentinel",
+      "icon": "/assets/agents/veto/icon.png",
+      "killfeed": "/assets/agents/veto/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Crosscut",
+          "icon": "/assets/agents/veto/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Chokehold",
+          "icon": "/assets/agents/veto/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Interceptor",
+          "icon": "/assets/agents/veto/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Evolution",
+          "icon": "/assets/agents/veto/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Viper",
+      "slug": "viper",
+      "role": "Controller",
+      "icon": "/assets/agents/viper/icon.png",
+      "killfeed": "/assets/agents/viper/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Snake Bite",
+          "icon": "/assets/agents/viper/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Poison Cloud",
+          "icon": "/assets/agents/viper/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Toxic Screen",
+          "icon": "/assets/agents/viper/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Viper's Pit",
+          "icon": "/assets/agents/viper/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Vyse",
+      "slug": "vyse",
+      "role": "Sentinel",
+      "icon": "/assets/agents/vyse/icon.png",
+      "killfeed": "/assets/agents/vyse/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Razorvine",
+          "icon": "/assets/agents/vyse/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Shear",
+          "icon": "/assets/agents/vyse/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Arc Rose",
+          "icon": "/assets/agents/vyse/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Steel Garden",
+          "icon": "/assets/agents/vyse/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Waylay",
+      "slug": "waylay",
+      "role": "Duelist",
+      "icon": "/assets/agents/waylay/icon.png",
+      "killfeed": "/assets/agents/waylay/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "Saturate",
+          "icon": "/assets/agents/waylay/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "Lightspeed",
+          "icon": "/assets/agents/waylay/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "Refract",
+          "icon": "/assets/agents/waylay/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "Convergent Paths",
+          "icon": "/assets/agents/waylay/abilities/ultimate.png"
+        }
+      ]
+    },
+    {
+      "name": "Yoru",
+      "slug": "yoru",
+      "role": "Duelist",
+      "icon": "/assets/agents/yoru/icon.png",
+      "killfeed": "/assets/agents/yoru/killfeed.png",
+      "abilities": [
+        {
+          "slot": "Grenade",
+          "name": "FAKEOUT",
+          "icon": "/assets/agents/yoru/abilities/grenade.png"
+        },
+        {
+          "slot": "Ability1",
+          "name": "BLINDSIDE",
+          "icon": "/assets/agents/yoru/abilities/ability1.png"
+        },
+        {
+          "slot": "Ability2",
+          "name": "GATECRASH",
+          "icon": "/assets/agents/yoru/abilities/ability2.png"
+        },
+        {
+          "slot": "Ultimate",
+          "name": "DIMENSIONAL DRIFT",
+          "icon": "/assets/agents/yoru/abilities/ultimate.png"
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Bandit",
+      "slug": "bandit",
+      "category": "Sidearm",
+      "killIcon": "/assets/weapons/bandit.png"
+    },
+    {
+      "name": "Classic",
+      "slug": "classic",
+      "category": "Sidearm",
+      "killIcon": "/assets/weapons/classic.png"
+    },
+    {
+      "name": "Frenzy",
+      "slug": "frenzy",
+      "category": "Sidearm",
+      "killIcon": "/assets/weapons/frenzy.png"
+    },
+    {
+      "name": "Ghost",
+      "slug": "ghost",
+      "category": "Sidearm",
+      "killIcon": "/assets/weapons/ghost.png"
+    },
+    {
+      "name": "Sheriff",
+      "slug": "sheriff",
+      "category": "Sidearm",
+      "killIcon": "/assets/weapons/sheriff.png"
+    },
+    {
+      "name": "Shorty",
+      "slug": "shorty",
+      "category": "Sidearm",
+      "killIcon": "/assets/weapons/shorty.png"
+    },
+    {
+      "name": "Spectre",
+      "slug": "spectre",
+      "category": "SMG",
+      "killIcon": "/assets/weapons/spectre.png"
+    },
+    {
+      "name": "Stinger",
+      "slug": "stinger",
+      "category": "SMG",
+      "killIcon": "/assets/weapons/stinger.png"
+    },
+    {
+      "name": "Bucky",
+      "slug": "bucky",
+      "category": "Shotgun",
+      "killIcon": "/assets/weapons/bucky.png"
+    },
+    {
+      "name": "Judge",
+      "slug": "judge",
+      "category": "Shotgun",
+      "killIcon": "/assets/weapons/judge.png"
+    },
+    {
+      "name": "Bulldog",
+      "slug": "bulldog",
+      "category": "Rifle",
+      "killIcon": "/assets/weapons/bulldog.png"
+    },
+    {
+      "name": "Guardian",
+      "slug": "guardian",
+      "category": "Rifle",
+      "killIcon": "/assets/weapons/guardian.png"
+    },
+    {
+      "name": "Phantom",
+      "slug": "phantom",
+      "category": "Rifle",
+      "killIcon": "/assets/weapons/phantom.png"
+    },
+    {
+      "name": "Vandal",
+      "slug": "vandal",
+      "category": "Rifle",
+      "killIcon": "/assets/weapons/vandal.png"
+    },
+    {
+      "name": "Warden",
+      "slug": "warden",
+      "category": "Rifle",
+      "killIcon": "/assets/weapons/warden.png"
+    },
+    {
+      "name": "Marshal",
+      "slug": "marshal",
+      "category": "Sniper",
+      "killIcon": "/assets/weapons/marshal.png"
+    },
+    {
+      "name": "Operator",
+      "slug": "operator",
+      "category": "Sniper",
+      "killIcon": "/assets/weapons/operator.png"
+    },
+    {
+      "name": "Outlaw",
+      "slug": "outlaw",
+      "category": "Sniper",
+      "killIcon": "/assets/weapons/outlaw.png"
+    },
+    {
+      "name": "Ares",
+      "slug": "ares",
+      "category": "Heavy",
+      "killIcon": "/assets/weapons/ares.png"
+    },
+    {
+      "name": "Odin",
+      "slug": "odin",
+      "category": "Heavy",
+      "killIcon": "/assets/weapons/odin.png"
+    },
+    {
+      "name": "Melee",
+      "slug": "melee",
+      "category": "Melee",
+      "killIcon": "/assets/weapons/melee.png"
+    }
+  ],
+  "twitchBadges": [
+    {
+      "id": "broadcaster",
+      "label": "Broadcaster",
+      "icon": "/assets/twitch-badges/broadcaster.png"
+    },
+    {
+      "id": "moderator",
+      "label": "Moderator",
+      "icon": "/assets/twitch-badges/moderator.png"
+    },
+    {
+      "id": "vip",
+      "label": "VIP",
+      "icon": "/assets/twitch-badges/vip.png"
+    },
+    {
+      "id": "subscriber",
+      "label": "Subscriber",
+      "icon": "/assets/twitch-badges/subscriber.png"
+    },
+    {
+      "id": "founder",
+      "label": "Founder",
+      "icon": "/assets/twitch-badges/founder.png"
+    },
+    {
+      "id": "verified",
+      "label": "Verified",
+      "icon": "/assets/twitch-badges/verified.png"
+    },
+    {
+      "id": "prime",
+      "label": "Prime Gaming",
+      "icon": "/assets/twitch-badges/prime.png"
+    },
+    {
+      "id": "turbo",
+      "label": "Turbo",
+      "icon": "/assets/twitch-badges/turbo.png"
+    },
+    {
+      "id": "artist",
+      "label": "Artist",
+      "icon": "/assets/twitch-badges/artist.png"
+    },
+    {
+      "id": "staff",
+      "label": "Staff",
+      "icon": "/assets/twitch-badges/staff.png"
+    }
+  ]
+}

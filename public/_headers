@@ -1,0 +1,12 @@
+# Cloudflare Pages response headers.
+# Bundled files have a content hash in their name, so they can be cached forever.
+/bundle/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Valorant images rarely change; cache for a week.
+/assets/*
+  Cache-Control: public, max-age=604800
+
+# Always re-check the manifest so new agents show up after you re-run the download script.
+/assets/manifest.json
+  Cache-Control: public, max-age=0, must-revalidate
